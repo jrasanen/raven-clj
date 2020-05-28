@@ -3,7 +3,7 @@
   :url "http://github.com/jrasanen/raven-clj"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.10.1" :scope "provided"]
+  :dependencies [[org.clojure/clojure "1.5.1" :scope "provided"]
                  [cheshire "5.9.0"]
                  [clj-http-lite "0.3.0"]
                  [prone "1.0.1"]])
