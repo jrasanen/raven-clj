@@ -1,4 +1,5 @@
-{:deps  {org.clojure/clojure {:mvn/version "1.8.0"}
-         cheshire {:mvn/version "5.9.0"}
-         clj-http-lite {:mvn/version  "0.3.0"}
-         prone {:mvn/version  "1.0.1"}}}
+{:paths ["resources" "target"]
+ :deps {org.clojure/clojure {:mvn/version "1.8.0"}
+        cheshire {:mvn/version "5.9.0"}
+        clj-http-lite {:mvn/version  "0.3.0"}
+        prone {:mvn/version  "1.0.1"}}}
